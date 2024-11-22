@@ -14,14 +14,20 @@ O sistema permite o cadastro de diferentes tipos de salas (ex: salas pequenas, m
 - Os usuários podem visualizar as salas disponíveis e fazer reservas conforme a necessidade.
 
 ### O sistema deve permitir:
-Visualização de salas disponíveis para um período específico
-Escolha da sala e a quantidade de tempo para a reserva
-Gerenciamento de reservas feitas
-Cancelamento de reservas com prazos definidos
-Controle de Pagamentos
+- Visualização de salas disponíveis para um período específico
+- Escolha da sala e a quantidade de tempo para a reserva
+- Gerenciamento de reservas feitas
+- Cancelamento de reservas com prazos definidos
+- Controle de Pagamentos
 
 ### Gerenciar salas (adicionar, editar, remover)
-Visualizar e aprovar ou cancelar reservas
-Visualizar relatórios financeiros e de uso de salas
-Notificações e Alertas
-O sistema envia notificações para os usuários.
+- Visualizar e aprovar ou cancelar reservas
+- Visualizar relatórios financeiros e de uso de salas
+- Notificações e Alertas
+- O sistema envia notificações para os usuários.
+
+### Tecnologias Utilizadas
+- **Banco de Dados:** MySQL
+- **Controle de Versão:** Git
+- **Linguagens:** PHP e JavaScript
+
